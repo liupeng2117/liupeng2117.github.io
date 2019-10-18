@@ -1,7 +1,15 @@
 ---
 title: "Holy cow!"
+output:
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
 ### I have a webpage!
 
 And I can put all kinds of stuff on it!
+
+### I have another webpage
+
+and I can put all kinds of stuff on it again!
